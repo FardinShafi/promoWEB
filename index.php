@@ -8,6 +8,23 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <title>Promo Code</title>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+            background-image: url('metallic-gold-green-leaves-textured-background.jpg');
+            background-size: cover;
+        }
+        .container{
+            width: 600px;
+            height: 250px;
+            background-color: white;
+            border-radius: 10px;
+        }
+    </style>
 </head>
 
 <body>
